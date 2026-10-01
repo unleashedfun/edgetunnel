@@ -7,5 +7,5 @@ keep_vars = true
 ADMIN = "123"
 
 [[kv_namespaces]]
-binding = "EDGEKV"
+binding = "KV"
 id = "818a466c8fb44bc79ad7a7bc7d156f25"
